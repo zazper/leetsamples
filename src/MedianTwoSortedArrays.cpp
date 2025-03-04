@@ -1,7 +1,7 @@
 // myLeetCode.cpp : Defines the entry point for the application.
 //
 
-#include "myLeetCode.h"
+#include "leetSamples.h"
 #include <vector>
 using namespace std;
 

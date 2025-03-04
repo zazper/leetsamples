@@ -1,5 +1,5 @@
 
-#include "myLeetCode.h"
+#include "leetSamples.h"
 #include <iostream>
 
 struct ListNode {
